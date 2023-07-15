@@ -1,0 +1,42 @@
+html,
+body {
+  font-family: Verdana, sans-serif;
+  line-height: 1.5;
+}
+
+.left {
+  margin-left: 0;
+}
+
+nav a:hover {
+  background-color: rgb(165, 165, 165);
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+}
+
+#navbar-links {
+  margin-left: auto !important;
+}
+
+.spacing {
+  letter-spacing: 4px;
+}
+
+.right {
+  margin-left: auto !important;
+  float: right;
+}
+
+.br {
+  font-size: 50px;
+  opacity: 0.9;
+}
+
+.arch {
+  font-size: 50px;
+  font-weight: 400;
+}
+
+button:hover {
+  background-color: gray;
+  color: black;
+}
